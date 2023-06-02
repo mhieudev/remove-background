@@ -1,0 +1,1 @@
+cd server_file && python manage.py runserver
